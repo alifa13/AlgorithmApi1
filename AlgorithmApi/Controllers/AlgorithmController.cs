@@ -37,6 +37,7 @@ namespace AlgorithmApi.Presentation.Controllers
             int c = 7;
             int d = 8;
             int t = 9;
+            int h = 10;
         }
 
         [HttpGet]
