@@ -21,7 +21,7 @@ builder.Services.AddScoped<IMatrixOperators, MatrixOperators>();
 builder.Services.AddScoped<IGraphOperators, GraphOperators>();
 builder.Services.AddScoped<IStuffOperators, StuffOperators>();
 builder.Services.AddScoped<GFKnapsack , GFKnapsack>();
-
+int a = 5;
 
 var app = builder.Build();
 
