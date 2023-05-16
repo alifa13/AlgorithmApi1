@@ -32,6 +32,7 @@ namespace AlgorithmApi.Presentation.Controllers
             _graphOperators = graphOperators;
             _stuffOperators = stuffOperators;
             _gFKnapsack = gFKnapsack;
+            int a = 5;
         }
 
         [HttpGet]
