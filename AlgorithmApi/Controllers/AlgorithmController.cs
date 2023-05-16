@@ -33,6 +33,7 @@ namespace AlgorithmApi.Presentation.Controllers
             _stuffOperators = stuffOperators;
             _gFKnapsack = gFKnapsack;
             int a = 5;
+            int b = 6;
         }
 
         [HttpGet]
