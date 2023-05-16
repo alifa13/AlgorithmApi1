@@ -35,7 +35,11 @@ namespace AlgorithmApi.Presentation.Controllers
             int a = 5;
             int b = 6;
             int c = 7;
+<<<<<<< HEAD
             int d = 8;
+=======
+            int t = 9;
+>>>>>>> 7bc687f (Update Controller)
         }
 
         [HttpGet]
